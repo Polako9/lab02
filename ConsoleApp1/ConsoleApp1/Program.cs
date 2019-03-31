@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        const char CHAR = '0';
+        const char CHAR = '1';
         static void Star() => Console.Write(CHAR);
         static void StarLn() => Console.WriteLine(CHAR);
         static void Space() => Console.Write(" ");
